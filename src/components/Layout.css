@@ -1,0 +1,47 @@
+.box{
+    background: transparent;
+    backdrop-filter: blur(2px);
+    border-radius: 20px;
+    border: 1px solid #a61a60;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.label{
+    padding-right: 40px;
+}
+
+.top{
+    margin-top: 30px;
+}
+
+.form{
+    color: wheat;
+    margin: 40px;
+    padding: 10px;
+}
+
+.input{
+    width: 400px;
+    height: 25px;
+    border-radius: 10px;
+}
+
+.inputPlace{
+    width: 230px;
+    height: 25px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 200PX;
+    border-radius: 10PX;
+    color: wheat;
+    background-color: #a61a60;
+}
